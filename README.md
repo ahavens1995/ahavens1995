@@ -1,9 +1,12 @@
 Hi there!
 
-My name is Aurora Havens. After graduation from Southern Methodist University with a Bachelor's Degree in Computer Science, I have spent the last four years as a software engineer
-at Raytheon. 
+I am a Systems Engineer with four years of software development experience, three years managing a testing group, and two years of system requirements development experience.
 
-During my time at Raytheon, I have worked on the software for the MTS Bravo and MTS Delta variant, developed automated common tests to reduce our testing timeline by ~40%, 
-coodinated software release testing efforts with my team, and, more recently, written requirements for our software.
+Over the last six years, I have worked closely with software, hardware, and system requirements to develop, test, and present finished products to customers. I led quality assurance operations to verify product requirements and present customers with training on how to use our products.
 
-While I have enjoyed my time at Raytheon, I thought this position looked really interesting and I wanted to bring my software and management skills to the table for this position.
+During my time at Raytheon, I led quality assurance operations which included defining testing scope and management plan, executing testing actions, and communicating testing results to upper leadership. I greatly enjoyed managing the team and the challenges that came with a test environment constantly changing. It pushed me to work collaboratively with my team and ensure the most important features were prioritized in testing.
+
+I have always enjoyed working alongside people in many different roles, as I find leveraging connections important to completing tasks on time. I believe everyone has value on a team and actively utilizing everyone ensures a smoother path forward to finishing a project.
+Producing a desired product requires working closely with customers to ensure their needs are being met. I have found it incredibly rewarding to act as an intermediary between developers and customers. I enjoy being able to pull new ideas from customers and work with engineers to tailor them to produce an enhanced product.
+
+
